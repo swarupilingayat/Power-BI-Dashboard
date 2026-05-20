@@ -1,3 +1,3 @@
-# Power-BI-Dashboard
+# Power-BI-Dashboard Projects
 
 Worldcup Dashboard
