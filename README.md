@@ -1,3 +1,4 @@
 # Power-BI-Dashboard Projects
 
-Worldcup Dashboard
+**1.Worldcup Dashboard**
+**2.HR Analytics**
